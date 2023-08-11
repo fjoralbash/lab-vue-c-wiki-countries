@@ -98,6 +98,7 @@ section {
 li {
   align-items: center;
   text-align: center;
+  list-style-type: none;
 }
 img {
   width: 80px;
